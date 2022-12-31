@@ -1,7 +1,4 @@
-
-
-const a = (b,c) => {
-    c = b/c
+const b = (a) => {
+    console.log(a)
 }
-
-a(12, 3);
+b(4);
